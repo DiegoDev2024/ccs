@@ -1,0 +1,65 @@
+* {
+    body {
+        margin: 0px;
+        padding: 0px;
+        border: 0px;
+    }
+}
+
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.header {
+    height: 4em;
+    padding: 1em;
+    margin: 1em;
+    font-size: 2em;
+    background-image: url("https://wilug.cl/wp-content/uploads/2021/12/Sistemas-de-bombas-para-incendios.jpg");
+    background-size: 9em;
+    background-color: #dde4e4;
+    background-position: right;
+    background-repeat: no-repeat;
+    text-align: left;
+}
+
+.header h1 {
+    margin: 1px;
+    font-weight: 400;
+    color: black;
+}
+
+.products {
+    width: 50%;
+    margin: auto;
+    padding: 0px;
+}
+
+.products th {
+    width: 50%;
+    text-align: left;
+}
+
+.products tr {
+    width: 100%;
+    font-size: 2em;
+}
+
+.products img {
+    width: 80%;
+    padding: 0%;
+    border-radius: 10%;
+    border: solid 1px #df6868;
+    margin: 1%;
+}
+
+.footer {
+    height: 3em;
+    line-height: 3em;
+    background-color: #DE1A1A;
+    color: white;
+    text-align: center;
+    font-weight: 900;
+
+}
